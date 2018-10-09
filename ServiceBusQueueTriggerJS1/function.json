@@ -6,7 +6,7 @@
       "type": "serviceBusTrigger",
       "direction": "in",
       "queueName": "myqueue",
-      "connection": "service-bus-noel_SERVICEBUS"
+      "connection": "my_connection_string_setting"
     }
   ]
 }
