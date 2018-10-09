@@ -1,0 +1,12 @@
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "mySbMsg",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "myqueue",
+      "connection": "service-bus-noel_SERVICEBUS"
+    }
+  ]
+}
